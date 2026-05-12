@@ -1,0 +1,18 @@
+# AI-M2.1 — Dancing with AI 2023
+
+Bộ sản phẩm mẫu cho module **AI-M2.1 (Dancing with AI)** — chương trình AI của KDI Education.
+
+Các file `.sb3` được mở trực tiếp trên [MIT AI + Scratch Playground](https://playground.raise.mit.edu).
+
+## Danh sách sản phẩm
+
+| Tên sản phẩm | Mở trên Playground | Link Raw |
+|---|---|---|
+| App giới thiệu hàng hóa | [▶ Mở](https://playground.raise.mit.edu/main/?project=https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/App%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20h%C3%A0ng%20h%C3%B3a.sb3) | [Raw](https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/App%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20h%C3%A0ng%20h%C3%B3a.sb3) |
+| App nhận biết cảm xúc người học online | [▶ Mở](https://playground.raise.mit.edu/main/?project=https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/App%20nh%E1%BA%ADn%20bi%E1%BA%BFt%20c%E1%BA%A3m%20x%C3%BAc%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%8Dc%20online.sb3) | [Raw](https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/App%20nh%E1%BA%ADn%20bi%E1%BA%BFt%20c%E1%BA%A3m%20x%C3%BAc%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%8Dc%20online.sb3) |
+| App phiên dịch đa ngôn ngữ | [▶ Mở](https://playground.raise.mit.edu/main/?project=https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/App%20phi%C3%AAn%20d%E1%BB%8Bch%20%C4%91a%20ng%C3%B4n%20ng%E1%BB%AF.sb3) | [Raw](https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/App%20phi%C3%AAn%20d%E1%BB%8Bch%20%C4%91a%20ng%C3%B4n%20ng%E1%BB%AF.sb3) |
+| App điểm danh nhận diện khuôn mặt | [▶ Mở](https://playground.raise.mit.edu/main/?project=https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/App%20%C4%91i%E1%BB%83m%20danh%20nh%E1%BA%ADn%20di%E1%BB%87n%20khu%C3%B4n%20m%E1%BA%B7t.sb3) | [Raw](https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/App%20%C4%91i%E1%BB%83m%20danh%20nh%E1%BA%ADn%20di%E1%BB%87n%20khu%C3%B4n%20m%E1%BA%B7t.sb3) |
+| Các tỉ lệ trên khuôn mặt | [▶ Mở](https://playground.raise.mit.edu/main/?project=https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/C%C3%A1c%20t%E1%BB%89%20l%E1%BB%87%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t.sb3) | [Raw](https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/C%C3%A1c%20t%E1%BB%89%20l%E1%BB%87%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t.sb3) |
+| Dự đoán con số Main Ver | [▶ Mở](https://playground.raise.mit.edu/main/?project=https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/D%E1%BB%B1%20%C4%91o%C3%A1n%20con%20s%E1%BB%91%20Main%20Ver.sb3) | [Raw](https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/D%E1%BB%B1%20%C4%91o%C3%A1n%20con%20s%E1%BB%91%20Main%20Ver.sb3) |
+| Face filter | [▶ Mở](https://playground.raise.mit.edu/main/?project=https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/Face%20filter.sb3) | [Raw](https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/Face%20filter.sb3) |
+| Mật khẩu AI | [▶ Mở](https://playground.raise.mit.edu/main/?project=https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/M%E1%BA%ADt%20kh%E1%BA%A9u%20AI.sb3) | [Raw](https://raw.githubusercontent.com/ThawsngLe/AI-M2.1/main/M%E1%BA%ADt%20kh%E1%BA%A9u%20AI.sb3) |
